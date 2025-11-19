@@ -13,7 +13,8 @@ for pickup and return to the shopping site, making returns easier and more conve
 
 
 Fun fact
--🐕I have a dog named Boaz 
--🎹currently learning to play the piano.
--💪Hobbies: volleyball, gym, bouldering, drawing and building thing.
+- 🐕 I have a dog named Boaz 
+- 🎹 Currently learning to play the piano.
+- 💪 Hobbies: volleyball, gym, bouldering, drawing and building things.
+
 
