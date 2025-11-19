@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**JonTheSkywalker/JonTheSkywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+im Jonathan, a student software development 🎓
+now im coding and studing C# on blazor 🔥
 
-Here are some ideas to get you started:
+🔨Built With
+- C#
+- Blazor
+- HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭I’m currently working on:"KomTerug" is a web application built with C# and Blazor that allows users to register packages
+for pickup and return to the shopping site, making returns easier and more convenient.
+
+
+Fun fact:
+-🐕I have a dog named Boaz 
+-🎹currently learning to play the piano.
+-💪Hobbies: volleyball, gym, bouldering, drawing and building thing.
+
