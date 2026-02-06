@@ -3,8 +3,7 @@
 im Jonathan, a student software development 🎓
 now im coding and studing C# on blazor 🔥
 
-🔭I’m currently working on:"KomTerug" is a web application built with C# and Blazor that allows users to register packages
-for pickup and return to the shopping site, making returns easier and more convenient.
+🔭I’m currently working on:"Fitsync" is a web application built with C# and Blazor that tracks your workouts.
 
 🔨Built With
 - C#
