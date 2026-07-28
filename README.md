@@ -8,8 +8,8 @@ now im coding and studing C# on blazor 🔥
 🔨Built With
 - C#
 - Blazor
-- -vue
-- -Javascript
+- vue
+- Javascript
 - HTML/CSS
 
 
