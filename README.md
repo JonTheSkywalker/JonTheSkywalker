@@ -7,10 +7,10 @@ Mostly working in **C# / .NET** and **Vue**, from web apps to Android.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[CoasterBoost](link)** | Android app for coaster count | Vue, JavaScript |
-| **[Aanvraagje](link)** | automatic appointment | Vue, JavaScript |
+| **[CoasterBoost](https://www.jonathandev.nl/projecten/coasterboost)** | Android app for coaster count | Vue, JavaScript |
+| **[Aanvraagje](https://aanvraagje.nl)** | automatic appointment | Vue, JavaScript |
 | **[Fitsync](link)** | Workout tracker web app | C#, Blazor |
-| **[jonathan.dev](link)** | My portfolio website | Vue, JavaScript |
+| **[jonathan.dev](https://www.jonathandev.nl)** | My portfolio website | Vue, JavaScript |
 
 ### 🛠️ Tech I use
 
