@@ -27,4 +27,4 @@ Mostly working in **C# / .NET** and **Vue**, from web apps to Android.
 ### 🎲 Off-screen
 Volleyball, gym and bouldering · drawing · learning piano
 
-📫 [Portfolio](link) · [LinkedIn](link)
+📫 [Portfolio](https://www.jonathandev.nl) · [LinkedIn](https://www.linkedin.com/in/jonathan-hoefnagel-02b414359/)
